@@ -3,9 +3,6 @@ return {
   lazy = false,
   dependencies = { "nvim-lua/plenary.nvim" },
   opts = {
-    -- You can customize configuration here.
-    -- The defaults are usually sufficient, but here is an example
-    -- of changing the keyword highlighting:
     signs = true, -- show icons in the sign column
     sign_priority = 8, -- sign priority
     -- keywords recognized:
